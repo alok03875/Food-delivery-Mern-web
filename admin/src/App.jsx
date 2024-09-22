@@ -7,10 +7,9 @@ import List from './pages/List/List'
 import Orders from './pages/Orders/Orders'
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import { url } from './assets/assets'
 
 const App = () => {
-
-  const url = " http://localhost:4000";
 
   return (
     <div>
