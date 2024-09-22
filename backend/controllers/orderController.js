@@ -7,7 +7,7 @@ const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
 // placing user order for fruntend
 const placeOrder = async (req, res) => {
 
-    const fruntend_url = "http://localhost:5174";
+    const fruntend_url = "https://food-del-fruntend.onrender.com/cart";
 
     try {
         const newOrder = new orderModel({
