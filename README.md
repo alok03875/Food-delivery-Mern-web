@@ -1,10 +1,10 @@
 # Project Links
 
 ## Frontend
-[Frontend Link](https://food-del-fruntend.onrender.com/)
+<a href="https://food-del-fruntend.onrender.com/" target="_blank">Frontend Link</a>
 
 ## Backend
-[Backend Link](https://food-del-backend-t96o.onrender.com/)
+<a href="https://food-del-backend-t96o.onrender.com/" target="_blank">Frontend Link</a>
 
 ## Admin Panel
-[Admin Link](https://food-del-admin-0qbl.onrender.com/list)
+<a href="https://food-del-admin-0qbl.onrender.com/list" target="_blank">Frontend Link</a>
